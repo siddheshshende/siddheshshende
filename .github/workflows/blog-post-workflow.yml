@@ -19,4 +19,4 @@ jobs:
         with:
           max_post_count: "5"
           comment_tag_name: "HASHNODE_BLOG"
-          feed_list: "https://1-siddheshvlog.hashnode.dev/series/javascript-blogs"  
+          feed_list: https://1-siddheshvlog.hashnode.dev/series/javascript-blogs
