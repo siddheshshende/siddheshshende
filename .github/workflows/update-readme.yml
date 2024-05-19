@@ -22,7 +22,7 @@ jobs:
       - name: "💾 Github Repository Metadata"
         uses: varunsridharan/action-repository-meta@main
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
 
       - name: "💫 VS Utility"
         uses: varunsridharan/action-vs-utility@main
@@ -45,7 +45,7 @@ jobs:
           files: |
             README.md
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
 
       - name: "📚 Hashnode Updater"
         uses: "varunsridharan/action-hashnode-blog@main"
@@ -54,7 +54,7 @@ jobs:
           BLOG_URL: 'https://1-siddheshvlog.hashnode.dev/series/javascript-blogs'
           COUNT: 5
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
 
       - name: "⚡ Repository - After Hook"
         run: |
