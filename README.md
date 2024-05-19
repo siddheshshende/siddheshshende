@@ -39,7 +39,8 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>&nbsp; &nbsp;
   <!-- Use a dark mode compatible image source for bash symbol -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/bash.svg" alt="bash" width="40" height="40"/> 
+
 </p><hr>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddheshshende&show_icons=true&locale=en" alt="siddheshshende" /></p>
