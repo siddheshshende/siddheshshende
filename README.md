@@ -27,7 +27,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/siddheshshende333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siddheshshende333" height="30" width="40" /></a>
   
 <a href="https://hashnode.com/@Siddhesh-Shende" target="_blank">
-    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" alt="Hashnode" height="30" width="40">
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" alt="Hashnode" height="30" width="30">
   </a>
 <a href="/https://siddheshshendeportfolio.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://siddheshshendeportfolio.netlify.app/" height="30" width="40" /></a>
 </p><hr>
