@@ -14,11 +14,11 @@
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [Top Ways to Use &quot;this&quot; Keyword in JavaScript.](https://1-siddheshvlog.hashnode.dev/top-ways-to-use-this-keyword-in-javascript)
 - [Asynchronous JavaScript with Promise APIs &lpar;all, allSettled, race and any&rpar;](https://1-siddheshvlog.hashnode.dev/asynchronous-javascript-with-promise-apis-all-allsettled-race-and-any)
 - [Async/Await in Modern JavaScript Development.](https://1-siddheshvlog.hashnode.dev/asyncawait-in-modern-javascript-development)
 - [Promises, Chaining and Error Handling in JavaScript.](https://1-siddheshvlog.hashnode.dev/promises-chaining-and-error-handling-in-javascript)
 - [The Role of Promises in Modern JavaScript Development.](https://1-siddheshvlog.hashnode.dev/the-role-of-promises-in-modern-javascript-development)
-- [all about JavaScript&#39;s callback function.](https://1-siddheshvlog.hashnode.dev/all-about-javascripts-callback-function)
 <!-- HASHNODE_BLOG:END -->
 
 <h3 align="left">Connect with me:</h3>
