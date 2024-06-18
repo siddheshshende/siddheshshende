@@ -22,15 +22,14 @@
 <!-- HASHNODE_BLOG:END -->
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/siddheshshende7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="siddheshshende7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/siddheshshende333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siddheshshende333" height="30" width="40" /></a>
-  
-<a href="https://hashnode.com/@Siddhesh-Shende" target="_blank">
-    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" alt="Hashnode" height="30" width="30">
-  </a>
-<a href="/https://siddheshshendeportfolio.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://siddheshshendeportfolio.netlify.app/" height="30" width="40" /></a>
-</p><hr>
+<p align="center">
+	<a href="https://github.com/siddheshshende"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a href="https://www.linkedin.com/in/siddheshshende333"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href="https://twitter.com/siddheshshende7"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
+	<a href="https://siddheshshendeportfolio.netlify.app/"><img alt="portfolio" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/domain.png"/></a>
+	<a href="https://hashnode.com/@Siddhesh-Shende"><img alt="hashnode" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/hashnode.png"/></a>
+</p>
+<hr>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
