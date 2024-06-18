@@ -23,11 +23,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-	<a href="https://github.com/siddheshshende"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-	<a href="https://www.linkedin.com/in/siddheshshende333"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-	<a href="https://twitter.com/siddheshshende7"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
-	<a href="https://siddheshshendeportfolio.netlify.app/"><img alt="portfolio" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/domain.png"/></a>
-	<a href="https://hashnode.com/@Siddhesh-Shende"><img alt="hashnode" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/hashnode.png"/></a>
+	<a href="https://github.com/siddheshshende" target="_blank"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a href="https://www.linkedin.com/in/siddheshshende333" target="_blank"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href="https://twitter.com/siddheshshende7" target="_blank"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/x.png"/></a>
+	<a href="https://siddheshshendeportfolio.netlify.app/" target="_blank"><img alt="portfolio" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/domain.png"/></a>
+	<a href="https://hashnode.com/@Siddhesh-Shende" target="_blank"><img alt="blog" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/blog.png"/></a>
 </p>
 <hr>
 
