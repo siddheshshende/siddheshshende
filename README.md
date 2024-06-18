@@ -7,6 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddheshshende&label=Profile%20views&color=0e75b6&style=flat" alt="siddheshshende" /> </p>
 
 - 🌱 I’m currently learning **javascript**
+- 🌱 I’m currently in love with **MERN**
 
 - 👨‍💻 All of my projects are available at [https://siddheshshendeportfolio.netlify.app/](https://siddheshshendeportfolio.netlify.app/)
 
@@ -21,15 +22,14 @@
 - [The Role of Promises in Modern JavaScript Development.](https://1-siddheshvlog.hashnode.dev/the-role-of-promises-in-modern-javascript-development)
 <!-- HASHNODE_BLOG:END -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 	<a href="https://github.com/siddheshshende" target="_blank"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	<a href="https://www.linkedin.com/in/siddheshshende333" target="_blank"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	<a href="https://twitter.com/siddheshshende7" target="_blank"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/x.png"/></a>
 	<a href="https://siddheshshendeportfolio.netlify.app/" target="_blank"><img alt="portfolio" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/domain.png"/></a>
-	<a href="https://hashnode.com/@Siddhesh-Shende" target="_blank"><img alt="blog" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/blog.png"/></a>
-</p>
-<hr>
+	
+</p><hr>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -65,3 +65,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddheshshende&show_icons=true&locale=en" alt="siddheshshende" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddheshshende&" alt="siddheshshende" /></p>
+<h3 align='center'>Show some &nbsp;❤️&nbsp; by starring at some of my repositories! </h3> 
