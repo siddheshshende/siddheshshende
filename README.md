@@ -60,13 +60,26 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>&nbsp; &nbsp;
+	 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  </a>&nbsp;&nbsp;
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+  </a>&nbsp;&nbsp;
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  </a>&nbsp;&nbsp;
+  <a href="https://mui.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialUI" width="40" height="40"/> 
+  </a>&nbsp;&nbsp;
 </p><hr>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddheshshende&show_icons=true&locale=en" alt="siddheshshende" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddheshshende&" alt="siddheshshende" /></p>
-<h3 align='center'>Show some &nbsp;❤️&nbsp; by starring at some of my repositories! </h3> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddheshshende&" alt="siddheshshende" /></p><hr>
 
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!!</b> :)</em> 
+
+<p align="center" > <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!!</b> :)</em> </p>
+<h3 align='center'><u>Show some &nbsp;❤️&nbsp; by starring at some of my repositories! </u></h3> 
