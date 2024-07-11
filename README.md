@@ -6,11 +6,9 @@
 </p><hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddheshshende&label=Profile%20views&color=0e75b6&style=flat" alt="siddheshshende" /> </p>
 
-- 🌱 I’m currently learning **javascript**
-- 🌱 I’m currently in love with **MERN**
-
-- 👨‍💻 All of my projects are available at [https://siddheshshendeportfolio.netlify.app/](https://siddheshshendeportfolio.netlify.app/)
-
+- 🌱 I’m currently learning **MERN** and in love with **javascript**
+- 🌟 Always leveling up my dev skills...
+- 🤔 You can find out more about me and my projects on my Personal Portfolio: [Siddhesh Shende](https://siddheshshendeportfolio.netlify.app/)
 - 📝 I regularly write articles on [https://hashnode.com/@Siddhesh-Shende](https://hashnode.com/@Siddhesh-Shende)
 
 ## My Latest Blog Posts 👇
@@ -73,13 +71,20 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialUI" width="40" height="40"/> 
   </a>&nbsp;&nbsp;
 </p><hr>
+<div>
+<p  align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=siddheshshende&show_icons=true&locale=en" alt="siddheshshende" /></p>
+<br />
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=siddheshshende&" alt="siddheshshende" /></p><hr>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddheshshende&show_icons=true&locale=en" alt="siddheshshende" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddheshshende&" alt="siddheshshende" /></p><hr>
-
-
-
-
+<div align="center">
+  <h3>👽 Visitors</h3>
+  Counting of visitors to this page in this section started from july 12, 2024.  <br />
+  <img src="https://count.getloli.com/get/@siddheshende.github.readme?theme=rule34" alt="Visitors" />
+  <br />
+</div>
+<hr>
 <p align="center" > <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!!</b> :)</em> </p>
 <h3 align='center'><u>Show some &nbsp;❤️&nbsp; by starring at some of my repositories! </u></h3> 
+
+[![MasterHead](languages.png)]([https://csfelix.github.io](https://siddheshshendeportfolio.netlify.app/))
