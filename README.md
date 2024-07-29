@@ -3,7 +3,11 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="GIF" width="400" height="300"  />
-</p><hr>
+</p>
+<div align="center">
+<img src="aqua.png" alt="line">
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddheshshende&label=Profile%20views&color=0e75b6&style=flat" alt="siddheshshende" /> </p>
 
 - 🌱 I’m currently learning **MERN** and in love with **javascript**
