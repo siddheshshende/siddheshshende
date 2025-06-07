@@ -10,7 +10,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddheshshende&label=Profile%20views&color=0e75b6&style=flat" alt="siddheshshende" /> </p>
 
-- 🌱 I’m currently learning **MERN** and in love with **javascript**
+- 💼 Currently working as a **Full Stack Developer Intern at [Nuverse](https://nuverse.in/)**
+- 🌱 I’m continuously upgrading my **MERN** skills and am in love with **JavaScript**
 - 🌟 Always leveling up my dev skills...
 - 🤔 You can find out more about me and my projects on my Personal Portfolio: [Siddhesh Shende](https://siddheshshendeportfolio.netlify.app/)
 - 📝 I regularly write articles on [https://hashnode.com/@Siddhesh-Shende](https://hashnode.com/@Siddhesh-Shende)
