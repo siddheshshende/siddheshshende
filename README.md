@@ -13,7 +13,7 @@
 - 💼 Currently working as a **Full Stack Developer Intern at [Nuverse](https://nuverse.in/)**
 - 🌱 I’m continuously upgrading my **MERN** skills and am in love with **JavaScript**
 - 🌟 Always leveling up my dev skills...
-- 🤔 You can find out more about me and my projects on my Personal Portfolio: [Siddhesh Shende](https://siddheshshendeportfolio.netlify.app/)
+- 🤔 You can find out more about me and my projects on my Personal Portfolio: [Siddhesh Shende](https://siddheshshende.com/)
 - 📝 I regularly write articles on [https://hashnode.com/@Siddhesh-Shende](https://hashnode.com/@Siddhesh-Shende)
 
 ## My Latest Blog Posts 👇
