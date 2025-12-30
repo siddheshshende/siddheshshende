@@ -7,10 +7,10 @@
 <div align="center">
 <img src="aqua.png" alt="line">
 </div>
-
+<br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddheshshende&label=Profile%20views&color=0e75b6&style=flat" alt="siddheshshende" /> </p>
 
-- 💼 Currently working as a **Full Stack Developer Intern at [Nuverse](https://nuverse.in/)**
+- 💼 Currently working as a **Full Stack Developer at [Nuverse](https://nuverse.in/)**
 - 🌱 I’m continuously upgrading my **MERN** skills and am in love with **JavaScript**
 - 🌟 Always leveling up my dev skills...
 - 🤔 You can find out more about me and my projects on my Personal Portfolio: [Siddhesh Shende](https://siddheshshende.com/)
@@ -45,6 +45,10 @@
 [![Expressjs](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-5A2D82?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
+[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
 [![material ui](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)
@@ -67,10 +71,14 @@
 [![canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
-</p><hr>
+</p>
+<hr>
+<!--
 <p  align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=siddheshshende&show_icons=true&locale=en" alt="siddheshshende" /></p>
 <br />
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=siddheshshende&" alt="siddheshshende" /></p><hr>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=siddheshshende&" alt="siddheshshende" /></p>
+<hr>
+-->
 </div>
 
 <div align="center">
